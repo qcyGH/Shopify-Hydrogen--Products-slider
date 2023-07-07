@@ -1,5 +1,5 @@
 # Shopify Hydrogen: Products slider
-
+![Preview](https://github.com/qcyGH/Shopify-Hydrogen--Products-slider/blob/main/preview.png "Preview")
 ## Menu
 - [Description](https://github.com/qcyGH/Shopify-Hydrogen--Products-slider#description)
 - [How to use](https://github.com/qcyGH/Shopify-Hydrogen--Products-slider#how-to-use)
