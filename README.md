@@ -1,10 +1,10 @@
 # Shopify Hydrogen: Products slider
 
 ## Menu
-[Description](https://github.com/qcyGH/Shopify-Hydrogen--Products-slider#description)
-[How to use](https://github.com/qcyGH/Shopify-Hydrogen--Products-slider#how-to-use)
-[Example](https://github.com/qcyGH/Shopify-Hydrogen--Products-slider#example-how-to-fetch-product-recommendations-and-pass-data-to-productslider-component)
-[Code](https://github.com/qcyGH/Shopify-Hydrogen--Products-slider#code)
+- [Description](https://github.com/qcyGH/Shopify-Hydrogen--Products-slider#description)
+- [How to use](https://github.com/qcyGH/Shopify-Hydrogen--Products-slider#how-to-use)
+- [Example](https://github.com/qcyGH/Shopify-Hydrogen--Products-slider#example-how-to-fetch-product-recommendations-and-pass-data-to-productslider-component)
+- [Code](https://github.com/qcyGH/Shopify-Hydrogen--Products-slider#code)
 
 ## Description
 Display a slider with products and a heading based on some options.  
